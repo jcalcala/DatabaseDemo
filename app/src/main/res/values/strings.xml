@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Database Demo</string>
+    <string name="first_nameET">First Name</string>
+    <string name="last_nameET">Last Name</string>
+    <string name="addButtonText">Add</string>
+    <string name="deleteButtonText">Delete</string>
+    <string name="show_allButtonText">Show All</string>
+    <string name="delete_allButtonText">Delete All</string>
+</resources>
